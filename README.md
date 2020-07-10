@@ -1,4 +1,12 @@
-### Hi there 👋
+# Ryan Sullivan
+
+Just another person mashing keys in the hopes of unlocking something cool.
+
+Most of this stuff is broken or outdated.  I know.  It stresses me out.
+
+[![Website](https://img.shields.io/badge/website-smirkingcat-lightgrey.svg)](http://smirkingcat.software)
+[![Twitter Follow](https://img.shields.io/twitter/follow/deprecatedcoder.svg?style=flat&label=twitter)](https://twitter.com/deprecatedcoder)
+[![YouTube](https://img.shields.io/badge/youtube-channel-e52d27.svg)](https://www.youtube.com/channel/UCoLHzWHjADqMNUXrk0Xk6vA)
 
 <!--
 **deprecatedcoder/deprecatedcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
